@@ -11,7 +11,7 @@ weight: 50
 I'm a software/security/product guy, love building and breaking things
 
 -----
-### 🔭 Languages/Technologies I use
+### 🔭 Languages/Technologies I use & love
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
