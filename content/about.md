@@ -11,7 +11,7 @@ weight: 50
 I'm a software/security/product guy, love building and breaking things
 
 -----
-#### 🔭 Languages/Technologies I use
+### 🔭 Languages/Technologies I use
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -23,7 +23,7 @@ I'm a software/security/product guy, love building and breaking things
 ![AWS](https://img.shields.io/badge/-AWS-222222?style=flat&logo=amazon-aws&logoColor=61DAFB)
 
 
-#### 💬 Reach me on 
+### 💬 Reach me on 
 [![Twitter](https://img.shields.io/badge/twitter--net_code-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/net_code)
 
 
